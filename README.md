@@ -8,7 +8,7 @@
 
 - 公司名称：中国银行软件开发工程师
 - 职位：软件开发工程师
-```
+
 技能掌握
 
 
@@ -26,7 +26,7 @@
 
 
 
-```
+
 ### 证书
 
 - CCNA(ciso certificated network engineer)
