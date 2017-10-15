@@ -4,12 +4,12 @@
 - 出生年月：1990.10
 - 毕业院校：华南理工大学
 
-### Markdown
+### 工作经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- 公司名称：中国银行软件开发工程师
+- 职位：软件开发工程师
 ```markdown
-Syntax highlighted code block
+技能掌握
 
 # Header 1
 ## Header 2
