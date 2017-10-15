@@ -29,9 +29,9 @@
 ```
 ### 证书
 
-- CCNA
+- CCNA(ciso certificated network engineer)
 
-- CISA
+- CISA(certificated information system auditor)
 
 ### 项目
 
