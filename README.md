@@ -18,7 +18,9 @@
 - web后端：nodejs
 
 - 数据库方向：mongodb mysql
+
 - 脚本开发：python
+
 - ios开发：react-native
 
 
