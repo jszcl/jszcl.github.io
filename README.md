@@ -11,19 +11,17 @@
 ```markdown
 技能掌握
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- web前端:javascript css3 html5 react.js
 
-**Bold** and _Italic_ and `Code` text
+- web后端：nodejs
 
-[Link](url) and ![Image](src)
+- 数据库方向：mongodb mysql
+
+
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
